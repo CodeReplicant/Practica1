@@ -21,3 +21,5 @@ git push: manda commits a repositorio remoto
 git merge: une ramas para unir cambiso del proyecto
 
 cambios de prueba
+Este es mi primer commit 
+este seria mi segundo commit y estoy contento de poder hacerlo
